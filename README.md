@@ -22,4 +22,4 @@
 또 
 
 
-[test link](/foxez123/test/claiper/README.md)
+[my first test link](claiper/README.md)
