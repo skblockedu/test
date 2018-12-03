@@ -36,7 +36,8 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## test6 - 
-```
+소스 코드는 아래와 같이 표시함.
+```java
 function test() {
   console.log("notice the blank line before this function?");
 }
