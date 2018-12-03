@@ -34,3 +34,10 @@
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+## test6 - 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
