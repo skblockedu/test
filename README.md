@@ -1,17 +1,17 @@
 # test
 
-## test1
+## test1 - quoting text
 **권효섭** 이야기
 > 배고파 ^^
 
-## test2 
+## test2 - quoting code
 ~~~
 하나
 둘
 셋
 ~~~
 
-## test3 list
+## test3 - list
 - 하나
 - 둘
 - 셋
@@ -20,7 +20,7 @@
 2. 이
 3. 삼
 
-## nesed list
+## test4 - nesed list
 1. 하나
    - 하나.하나
      - 하나.하나.하나
@@ -29,7 +29,7 @@
 2. 둘
 또 
 
-
+## links
 [my first test link](/claiper/README.md)
 
 
