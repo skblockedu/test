@@ -22,4 +22,7 @@
 또 
 
 
-[my first test link](claiper/README.md)
+[my first test link](/claiper/README.md)
+
+
+This site was built using [GitHub Pages](https://pages.github.com/).
