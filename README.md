@@ -1,3 +1,18 @@
+curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh
+sudo apt-get install nodejs
+sudo apt-get install npm
+
+sudo apt install golang-go
+
+sudo apt install docker.io
+sudo apt install docker-compose
+sudo usermod -aG docker $USER
+
+curl -sSL http://bit.ly/2ysbOFE | bash -s 1.4.0 1.4.0 0.4.14
+
+
+
+sudo apt-get install virtualbox-guest-x11
 # test
 
 ## test1 - quoting text
